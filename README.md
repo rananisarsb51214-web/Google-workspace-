@@ -10,15 +10,16 @@ It seems to be a personal project or experiment rather than a fully-fledged CLI 
 
 ## Table of Contents 📚
 
-- [Features](#features-) 🌟
-- [Tech Stack](#tech-stack-) 💻
-- [Installation](#installation-) 🛠️
-- [Usage](#usage-) ▶️
-- [Project Structure](#project-structure-) 📁
-- [License](#license-) 📄
-- [Contributing](#contributing-) 🤝
-- [Important Links](#important-links-) 🔗
-- [Footer](#footer-) 🚀
+- [Features](#features--)
+- [Tech Stack](#tech-stack--)
+- [Installation](#installation--)
+- [Usage](#usage--)
+- [Project Structure](#project-structure--)
+- [API Reference](#api-reference-conceptual--)
+- [Contributing](#contributing--)
+- [License](#license--)
+- [Important Links](#important-links--)
+- [Footer](#footer--)
 
 ## Features ⭐
 
@@ -138,12 +139,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Important Links 🔗
 
--   **Repository:** [Google-workspace-](https://github.com/rananisarsb51214-web/Google-workspace-)
+-   **Repository:** [Google-workspace-](https://github.com/rananisarsb51214/Google-workspace-)
 -   **Google AI Studio:** [https://aistudio.google.com/](https://aistudio.google.com/)
 
 ## Footer 🚀
 
-This project was developed by rananisarsb51214-web. Feel free to star, fork, and open issues if you encounter any problems or have suggestions!
+This project was developed by rananisarsb51214. Feel free to star, fork, and open issues if you encounter any problems or have suggestions!
 
 
 ---
